@@ -13,7 +13,7 @@ Hi!!👋
 <img src="https://img.shields.io/badge/freecodecamp-008000?style=for-the-badge&logo=freecodecamp&logoColor=white"/> 
 
 
-![small](https://user-images.githubusercontent.com/102794464/217452464-c825d7b5-61e1-42c7-8e6d-c15caa2397fc.svg)
+<img src="https://www.codewars.com/users/vnko1/badges/large"/>
 
 
 ## MY STACK TECHNOLOGIES
