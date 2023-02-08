@@ -31,4 +31,4 @@
 <a href='https://www.facebook.com/andrey.valenko'><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="www.linkedin.com/in/andrii-valenko-500a56b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## Just say "Hello" at <a href="mailto:andreyvalenko@gmail.com">andreyvalenko@gmail.com</a> 😉
+## Just say "Hello" at <a href="mailto:andreyvalenko@gmail.com">andreyvalenko@gmail.com</a>
