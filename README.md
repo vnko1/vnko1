@@ -31,5 +31,7 @@ ___
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f646173682d3334393246463f7374796c653d666f722d7468652d6261646765266c6f676f3d6c6f64617368266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/102794464/217494356-ddaa73db-080f-4ddb-aea3-d4c125a76be7.svg)
 
 ## GITHUB README STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnko1&layout=compact)](https://github.com/vnko1/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnko1)](https://github.com/vnko1/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnko1&show_icons=true&theme=tokyonight)
