@@ -56,7 +56,7 @@
 <hr/>
 
 <p align="center">
- <a href="https://andriivalenko.netlify.app/">
+ <a href="https://portfolio-nine-beryl-82.vercel.app/">
    Visit my portfolio
  </a>
 </p>
