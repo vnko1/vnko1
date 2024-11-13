@@ -39,3 +39,43 @@ server {
 }
 
 ```
+
+# Strapi docs
+
+```
+
+server {
+    # Listen HTTP
+    listen 80;
+    server_name api.example.com;
+
+    # Redirect HTTP to HTTPS
+    return 301 https://$host$request_uri;
+}
+
+server {
+    # Listen HTTPS
+    listen 443 ssl;
+    server_name api.example.com;
+
+    # SSL config
+    ssl_certificate /path/to/your/certificate/file;
+    ssl_certificate_key /path/to/your/certificate/key;
+
+    # Proxy Config
+    location / {
+        proxy_pass http://strapi;
+        proxy_http_version 1.1;
+        proxy_set_header X-Forwarded-Host $host;
+        proxy_set_header X-Forwarded-Server $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Host $http_host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "Upgrade";
+        proxy_pass_request_headers on;
+    }
+}
+
+```
