@@ -53,6 +53,6 @@
 </details>
 
 <hr/>
-<p align="center"><a src="https://portfolio.vnko.tech">Visit my portfolio</a></p>
+<p align="center"><a href="https://portfolio.vnko.tech">Visit my portfolio</a></p>
 
 
