@@ -54,7 +54,5 @@
 
 <hr/>
 
-<p align="center">
-  [Visit my portfolio](https://portfolio.vnko.tech)
-</p>
+<a align="center" src="https://portfolio.vnko.tech">Visit my portfolio</a>
 
