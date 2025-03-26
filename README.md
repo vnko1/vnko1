@@ -55,7 +55,7 @@
 <hr/>
 
 <p align="center">
- <a href="https://portfolio.vnko.tech">
+ <a href="https://portfolio.vnko.tech" target="_blank" rel="noreferrer noopener">
    Visit my portfolio
  </a>
 </p>
