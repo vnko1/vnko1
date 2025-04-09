@@ -2,9 +2,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:family_man_woman: &nbsp;Living in Ukraine with my lovely wife :two_hearts:, Katya.
+&nbsp;&nbsp;&nbsp; &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp; &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp; &nbsp;Living in Ukraine with my lovely wife :two_hearts:, Katya.
 
 <p align="center">
   <a href="mailto:andreyvalenko@gmail.com?subject=Hi%20Andrii%20Valenko"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
